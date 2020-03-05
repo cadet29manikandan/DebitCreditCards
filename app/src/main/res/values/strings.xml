@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DebitCreditCards</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="done">DONE</string>
+    <string name="card_holder_name_sample">MANIKANDAN KRM</string>
+    <string name="card_holder">CARD HOLDER</string>
+    <string name="expiry">EXPIRY</string>
+    <string name="mm_yy">MM/YY</string>
+    <string name="card_expiry">CARD EXPIRY</string>
+    <string name="card_mm_yy">MM/YY</string>
+    <string name="hint_cvv_front">0000</string>
+    <string name="name_on_card">NAME ON CARD</string>
+    <string name="card_number">CARD NUMBER</string>
+    <string name="error_invalid_month">Invalid month</string>
+    <string name="error_card_expired">Card expired</string>
+    <string name="add_card">Add Card</string>
+    <integer name="card_name_len">25</integer>
+</resources>
